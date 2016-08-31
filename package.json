@@ -1,7 +1,9 @@
 {
   "name": "login",
   "version": "0.0.0",
-  "start":"app.js",
+  "scripts": {
+    "start":"app.js"
+  },
   "dependencies": {
     "body-parser": "^1.13.3",
     "ejs": ">= 0.0.0",
